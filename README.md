@@ -1,17 +1,8 @@
 # Tepthon-heroku
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgcatub%2Fnekopack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Zed-Thon/nekopack)
+p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+غير مبري الذمة الي ياخذله حرف واحد وينسبه لنفسه ويكول من كتابتي خصيمه يوم القيامه
+تريد تسرق اذكر مصدر الكود منين وكافي تضحك ع العالم ع ساس انته مسويه
 
-This repo is only for deploying purpose if you want to look into main source code head to [main source](https://github.com/zed-Thon/zelzal) 
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-## Deploy
-
-To be safe fork this repo and then press deploy button from the forked repo 
-
-Fork Deploy is highly recommended
-
-[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/JAIITHON/deploytepthonee/tree/master)]
-
-## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
-thank you zedthon
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JAIITHON/deploytepthonee/tree/master)
